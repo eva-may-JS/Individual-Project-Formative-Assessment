@@ -6,8 +6,7 @@ header {
     background-color: #13505B;
     color: #FFB2E6;
     padding: 0.5rem 1rem;
-    position: absolute;
-    z-index: 10;
+    position: relative;
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -19,26 +18,8 @@ header {
     width: 60px;
 }
 
-#nav-items {
-    font-size: 120%;
-    list-style-type: none;
-    color: #FFB2E6;
-    font-family: 'montserrat', sans-serif;
-}
+/* Navbar */
 
-#nav-items>li {
-    margin-bottom: 1em;
-}
-
-#nav-items a {
-    color: #fccded;
-}
-
-.active {
-    border-bottom: 1px solid #FFB2E6;
-}
-
-/* navbar styles with dropdown toggle */
 nav {
     position: absolute;
     background-color: #13505B;
@@ -49,34 +30,61 @@ nav {
     top: 100%;
 }
 
-/* nav toggle */
-#nav-toggle:checked~nav {
-    display: block;
+#nav-items {
+    font-size: 120%;
+    list-style-type: none;
+    font-family: 'montserrat', sans-serif;
 }
 
+#nav-items > li {
+    margin-bottom: 0.8em;
+}
+
+#nav-items a {
+    color: #fccded;
+}
+
+.active {
+    border-bottom: 1px solid #FFB2E6;
+}
+
+
+
+/* nav toggle */
 #nav-toggle {
     display: none;
-    height: 10px;
-    width: 10px;
 }
 
 .nav-toggle-label {
     font-size: 1.5rem;
-    color: #FFB2E6;
+    color: #fccded;
+}
+
+#nav-toggle:checked~nav {
+    display: block;
 }
 
 
 
+/* Main content */
+main {
+    margin-top:10px;
+}
 
 
-/* Empty pages */
-.page-error-message {}
+/* Empty pages 
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}*/
+
+
 
 /* Media query: large phones and up */
 @media screen and (min-width: 425px) {
     .nav-toggle-label {
         font-size: 2rem;
-        color: #FFB2E6;
     }
 }
 
