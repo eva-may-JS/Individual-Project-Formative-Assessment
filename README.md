@@ -1,9 +1,16 @@
 # Love Running
 
+Thrive is a website which aims to shed light on mental health as well as providing information and support resources. It is geared toward anyone with an interest in improving their mental wellbeing, including people who may be in emotional distress from common issues such as stress, anxiety or depression.
 
 ## UX/UI
 
-The goals of this project... 
+The goals of this project are:
+
+- Promoting awareness of mental health and mental health issues
+- Redirecting the user to helpful pages and resources for seeking help
+- Providing information and reassurance in a visually pleasing and calming layout
+
+To this end, the website is presented with a cheerful but not overwhelming colour palette and feel-good imaging. Inspiring quotes, mental health tips and links to resources have also been provided in light of our goals.
 
 ## Features 
 
@@ -49,6 +56,7 @@ The live link can be found here -
 - The logo was created using LOGO.com (https://logo.com/)
 - The icons were taken from [Font Awesome](https://fontawesome.com/)
 - The Favicon was created using Favicon.io (https://favicon.io/)
+- The fonts were obtained from Google Fonts (https://fonts.google.com/)
 
 ### Media
 
