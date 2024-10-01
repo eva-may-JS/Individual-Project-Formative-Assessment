@@ -15,6 +15,10 @@ h1, h2, h3 {
     text-align: center;
 }
 
+hr {
+    margin: 10px 0;
+}
+
 /* Header */
 header {
     background-color: #13505B;
@@ -115,6 +119,15 @@ main {
     background-color: #45B69C;
     margin: 15px 0;
     padding-top: 10px;
+}
+
+.facts-list {
+    list-style-type: none;
+}
+
+.facts-list span {
+    font-size: 2rem;
+    margin: 3px 8px 0px 0px;
 }
 
 /* FOOTER */

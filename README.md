@@ -52,7 +52,7 @@ The live link can be found here -
 
 ### Content 
 
-- The text for the Home page was taken from GOV.UK: Public mental health (https://www.gov.uk/government/collections/public-mental-health)
+- The text for the Home page was taken from GOV.UK: Public mental health (https://www.gov.uk/government/collections/public-mental-health) and ChatGPT (https://chatgpt.com/)
 - The logo was created using LOGO.com (https://logo.com/)
 - The icons were taken from [Font Awesome](https://fontawesome.com/)
 - The Favicon was created using Favicon.io (https://favicon.io/)
