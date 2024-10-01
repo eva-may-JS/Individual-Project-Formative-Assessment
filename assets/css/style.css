@@ -11,6 +11,10 @@ h1, h2, h3 {
     font-family: 'merriweather', sans-serif;
 }
 
+.center-text {
+    text-align: center;
+}
+
 /* Header */
 header {
     background-color: #13505B;
@@ -81,6 +85,16 @@ main {
     margin-top:10px;
 }
 
+
+/* FOOTER */
+footer {
+    background-color: #95818D;
+}
+
+.footer-icon {
+    color: white;
+    font-size: 2rem;
+}
 
 /* Empty pages 
 .wrapper {

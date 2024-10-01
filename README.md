@@ -58,5 +58,7 @@ The live link can be found here -
 - The Favicon was created using Favicon.io (https://favicon.io/)
 - The fonts were obtained from Google Fonts (https://fonts.google.com/)
 
+
 ### Media
 
+- The images were taken from Pixabay (https://pixabay.com/)
