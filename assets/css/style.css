@@ -148,7 +148,6 @@ main {
     background-color: rgba(255, 255, 255, 0.9);
 }
 #quote-2 {
-    text-align: right;
     background-color: rgba(252, 205, 237, 0.9);
 }
 #quote-3 {
@@ -236,6 +235,17 @@ footer {
     }
 
 }
+
+/* Media query: Bootstrap medium and up */
+@media screen and (min-width: 768px){
+    .quotes {
+        border-radius: 20px;
+    }
+    
+    #quote-2 {text-align: right;
+    }
+}
+
 
 /* Media query: laptops and larger */
 @media screen and (min-width: 992px) {
