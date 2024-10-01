@@ -16,6 +16,8 @@ The following is a wireframe of how the page is planned to look on a mobile when
 
 ![Wireframe](https://github.com/eva-may-JS/Individual-Project-Formative-Assessment/blob/main/assets/images/Wireframe.PNG)
 
+The project may deviate from this wireframe due to potential design improvements during the process
+
 ## Features 
 
 ### Existing Features
