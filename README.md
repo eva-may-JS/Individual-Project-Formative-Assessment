@@ -12,14 +12,19 @@ The goals of this project are:
 
 To this end, the website is presented with a cheerful but not overwhelming colour palette and feel-good imaging. Inspiring quotes, mental health tips and links to resources have also been provided in light of our goals.
 
+The following is a wireframe of how the page is planned to look on a mobile when scrolled down to the bottom of the page:
+
+[Wireframe](https://evamayjs-individualproj-19t49f3lmv9.ws.codeinstitute-ide.net/)
+
 ## Features 
 
 ### Existing Features
 
+1. Responsive header
 
 ### Features Left to Implement
 
-
+- Create new pages within the website which currently display as "Under Development"
 
 ## Testing 
 

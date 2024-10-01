@@ -14,8 +14,15 @@ h1, h2, h3 {
 
 .sub-title {
     background-color: #45B69C;
-    margin: 15px 0;
+    margin: 25px 0;
     padding-top: 10px;
+}
+
+.sub-title-dark {
+    background-color: #13505B;
+    color:#fdfde7;
+    margin: 25px 0;
+    padding-top: 5px;
 }
 
 .center-text {
@@ -153,6 +160,11 @@ main {
 #quote-3 {
     margin-bottom: 30px;
     background-color: rgba(69, 182, 156, 0.9);
+}
+
+/* Cards section */
+.cards {
+    margin-top: 25px;
 }
 
 /* FOOTER */
