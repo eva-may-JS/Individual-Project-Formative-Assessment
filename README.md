@@ -14,7 +14,7 @@ To this end, the website is presented with a cheerful but not overwhelming colou
 
 The following is a wireframe of how the page is planned to look on a mobile when scrolled down to the bottom of the page:
 
-[Wireframe](https://evamayjs-individualproj-19t49f3lmv9.ws.codeinstitute-ide.net/)
+[Wireframe](https://github.com/eva-may-JS/Individual-Project-Formative-Assessment/blob/main/assets/images/Wireframe.PNG)
 
 ## Features 
 
