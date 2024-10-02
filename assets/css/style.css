@@ -170,6 +170,9 @@ main {
 /* FOOTER */
 footer {
     background-color: #95818D;
+    height: 50px;
+    position: relative;
+    bottom: 0;
 }
 
 .footer-icon {
@@ -177,14 +180,12 @@ footer {
     font-size: 2rem;
 }
 
-/* Empty pages 
-.wrapper {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}*/
+/* Empty pages */
 
-
+.error-page-footer {
+    position: absolute;
+    bottom: 0;
+}
 
 /* Media query: large phones and up */
 @media screen and (min-width: 425px) {
