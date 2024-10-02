@@ -1,4 +1,4 @@
-# Love Running
+# Thrive
 
 Thrive is a website which aims to shed light on mental health as well as providing information and support resources. It is geared toward anyone with an interest in improving their mental wellbeing, including people who may be in emotional distress from common issues such as stress, anxiety or depression.
 
@@ -59,7 +59,11 @@ The live link can be found here -
 
 ### Content 
 
-- The text for the Home page was taken from GOV.UK: Public mental health (https://www.gov.uk/government/collections/public-mental-health) and ChatGPT (https://chatgpt.com/)
+- The text for the Home page was taken from:
+     - GOV.UK: Public mental health (https://www.gov.uk/government/collections/public-mental-health) 
+     - ChatGPT (https://chatgpt.com/)
+     - Samaritans (https://www.samaritans.org/)
+     - Mind (https://www.mind.org.uk/)
 - The logo was created using LOGO.com (https://logo.com/)
 - The icons were taken from [Font Awesome](https://fontawesome.com/)
 - The Favicon was created using Favicon.io (https://favicon.io/)
@@ -68,4 +72,4 @@ The live link can be found here -
 
 ### Media
 
-- The images were taken from Pixabay (https://pixabay.com/)
+- The images were taken from Pixabay (https://pixabay.com/) and Pexels (https://www.pexels.com/)

@@ -167,6 +167,34 @@ main {
     margin-top: 25px;
 }
 
+.card {
+    padding-top: 10px;
+}
+
+#card-1{
+    border-color: #95818D;
+    background-color: #afa4ab;
+    border-width: 5px;
+}
+
+#card-2{
+    border-color: #ffe45e;
+    background-color: #ffea81;
+    border-width: 5px;
+}
+
+#card-3{
+    border-color:#FFB2E6;
+    background-color:#fccded;
+    border-width: 5px;
+}
+
+.btn-primary {
+    background-color: #1d5f6b;
+    border-color:#1d5f6b;
+    box-shadow: 2px 2px rgb(51, 51, 51);
+}
+
 /* FOOTER */
 footer {
     background-color: #95818D;
@@ -185,6 +213,11 @@ footer {
 .error-page-footer {
     position: absolute;
     bottom: 0;
+}
+
+.page-error-message {
+    margin-top: 30px;
+    margin-left: 10px;
 }
 
 /* Media query: large phones and up */
