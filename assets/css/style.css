@@ -197,7 +197,6 @@ main {
 
 
 
-
 /* FOOTER */
 footer {
     background-color: #95818D;
@@ -219,8 +218,7 @@ footer {
 }
 
 .page-error-message {
-    margin-top: 30px;
-    margin-left: 10px;
+    margin: 30px 10px;
 }
 
 /* Media query: large phones and up */
