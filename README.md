@@ -26,25 +26,45 @@ The project may deviate from this wireframe due to potential design improvements
 - The NavBar is fully responsive and contains the website logo and the navigation elements "Home", "About Us" and "FAQ"
 - The navbar collapses into the burger icon for small devices and expands along the top of the page in larger devices thanks to a media query
 - A line under the relevant section indicates to the user what part of the webpage they are on
+
+![NavBar](https://github.com/eva-may-JS/Individual-Project-Formative-Assessment/blob/main/assets/images/navbar.PNG)
+
 3. Hero image
 - A cheerful and attention-grabbing image sits at the top of the Home page to give a positive first impression to the user and make the website look friendly and welcoming. 
 - It contains a text overlay with the website's slogan to make it clear what the page is about
+
+![Hero](https://github.com/eva-may-JS/Individual-Project-Formative-Assessment/blob/main/assets/images/hero%20image.PNG)
+
 4. Introductory information section
 - A list format is used to present begginer-friendly information about mental health
 - FontAwesome icons are used to decorate the list and make it more easily digestible
+
+![Intro](https://github.com/eva-may-JS/Individual-Project-Formative-Assessment/blob/main/assets/images/section%201.PNG)
+
 5. Quotes section
 - Some inspiring quotes from fictional characters who have overcome mental illness are introduced to inspire the reader with hope
 - A fixed background image of sunflowers makes the section more eye-catching and cheerful
 - The assymetrical layout (on tablets and larger devices) made with Bootstrap grid elements gives the quotes more space to stand out and provides a more fun and interesting layout to kee the readers attention
 - Translucent background colours on the sections of text make it easier to read
+
+![Quotes](https://github.com/eva-may-JS/Individual-Project-Formative-Assessment/blob/main/assets/images/section%202.PNG)
+
 6. Mental health tips section
 - Bootstrap cards provide general mental health tips in a fun and engaging way, breaking up sections of text
 - CSS was used to style the cards to look unique, attractive and eye-catching
+
+![Tips](https://github.com/eva-may-JS/Individual-Project-Formative-Assessment/blob/main/assets/images/section%203.PNG)
+
 7. Further information section
 - The Further Information section provides a simple list to avoid user fatigue, with easily viewable links to provide the reader with more resources for help and information
+
+![FurtherInfo](https://github.com/eva-may-JS/Individual-Project-Formative-Assessment/blob/main/assets/images/section%204.PNG)
+
 8. Footer
 - The footer contains the social media links for the website
 - It has been made responsive using Bootstrap grid elements and fixed to the bottom of the screen on the empty pages
+
+![Footer](https://github.com/eva-may-JS/Individual-Project-Formative-Assessment/blob/main/assets/images/footer.PNG)
 
 ### Features Left to Implement
 
