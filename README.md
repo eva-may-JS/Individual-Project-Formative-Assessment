@@ -22,15 +22,40 @@ The project may deviate from this wireframe due to potential design improvements
 
 ### Existing Features
 
-1. Responsive header
+1. Navigation bar
+- The NavBar is fully responsive and contains the website logo and the navigation elements "Home", "About Us" and "FAQ"
+- The navbar collapses into the burger icon for small devices and expands along the top of the page in larger devices thanks to a media query
+- A line under the relevant section indicates to the user what part of the webpage they are on
+3. Hero image
+- A cheerful and attention-grabbing image sits at the top of the Home page to give a positive first impression to the user and make the website look friendly and welcoming. 
+- It contains a text overlay with the website's slogan to make it clear what the page is about
+4. Introductory information section
+- A list format is used to present begginer-friendly information about mental health
+- FontAwesome icons are used to decorate the list and make it more easily digestible
+5. Quotes section
+- Some inspiring quotes from fictional characters who have overcome mental illness are introduced to inspire the reader with hope
+- A fixed background image of sunflowers makes the section more eye-catching and cheerful
+- The assymetrical layout (on tablets and larger devices) made with Bootstrap grid elements gives the quotes more space to stand out and provides a more fun and interesting layout to kee the readers attention
+- Translucent background colours on the sections of text make it easier to read
+6. Mental health tips section
+- Bootstrap cards provide general mental health tips in a fun and engaging way, breaking up sections of text
+- CSS was used to style the cards to look unique, attractive and eye-catching
+7. Further information section
+- The Further Information section provides a simple list to avoid user fatigue, with easily viewable links to provide the reader with more resources for help and information
+8. Footer
+- The footer contains the social media links for the website
+- It has been made responsive using Bootstrap grid elements and fixed to the bottom of the screen on the empty pages
 
 ### Features Left to Implement
 
 - Create new pages within the website which currently display as "Under Development"
+- Create clickable images in the Further Information section with the recommended websites' logos to make this section stand out more
 
 ## Testing 
 
+This project was tested using DevTools on the deployed product. All links and buttons have been checked and are clickable and functional and the layout has been inspected and found satisfactory on all screen sizes using the "Responsive" Dimentions option and dragging the viewport to all possible and reasonable shapes and sizes.
 
+The code was also checked using HTML and CSS validation systems.
 
 ### Validator Testing 
 
@@ -41,7 +66,7 @@ The project may deviate from this wireframe due to potential design improvements
 
 ### Unfixed Bugs
 
-
+No bugs were left unfixed.
 
 ## Deployment
 
@@ -50,7 +75,7 @@ The project may deviate from this wireframe due to potential design improvements
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - 
+The live link can be found here - https://eva-may-js.github.io/Individual-Project-Formative-Assessment/index.html
 
 
 ## Credits 
@@ -64,12 +89,14 @@ The live link can be found here -
      - ChatGPT (https://chatgpt.com/)
      - Samaritans (https://www.samaritans.org/)
      - Mind (https://www.mind.org.uk/)
-- The logo was created using LOGO.com (https://logo.com/)
-- The icons were taken from [Font Awesome](https://fontawesome.com/)
-- The Favicon was created using Favicon.io (https://favicon.io/)
+- The text for the Deployment section of this README.md was taken from the CI README.md template (https://github.com/Code-Institute-Solutions/readme-template)
 - The fonts were obtained from Google Fonts (https://fonts.google.com/)
+
 
 
 ### Media
 
 - The images were taken from Pixabay (https://pixabay.com/) and Pexels (https://www.pexels.com/)
+- The Favicon was created using Favicon.io (https://favicon.io/)
+- The logo was created using LOGO.com (https://logo.com/)
+- The icons were taken from [Font Awesome](https://fontawesome.com/)
