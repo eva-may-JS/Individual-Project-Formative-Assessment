@@ -139,6 +139,15 @@ main {
     margin: 3px 8px 0px 0px;
 }
 
+.line-under {
+    border-bottom: #4c4d4d48 1px solid;
+    padding-bottom: 12px;
+}
+
+.li-margin-top {
+    margin-top: 10px;
+}
+
 /* Quotes section */
 #quotes {
     background: url("../images/sunflowers.jpg") no-repeat center center / cover;
