@@ -14,14 +14,14 @@ h1, h2, h3 {
 
 .sub-title {
     background-color: #45B69C;
-    margin: 25px 0;
+    margin: 50px 0;
     padding-top: 10px;
 }
 
 .sub-title-dark {
     background-color: #13505B;
     color:#fdfde7;
-    margin: 25px 0;
+    margin: 80px 0 35px 0;
     padding-top: 5px;
 }
 
@@ -29,9 +29,6 @@ h1, h2, h3 {
     text-align: center;
 }
 
-hr {
-    margin: 10px 0;
-}
 
 /* Header */
 header {
@@ -194,7 +191,7 @@ main {
 
 #card-3{
     border-color:#FFB2E6;
-    background-color:#fccded;
+    background-color:#f0cae4;
     border-width: 5px;
 }
 
